@@ -1,0 +1,8 @@
+participant_id,filename,date,beverage_label,adjustment_applied,estimated_serving_ml,assumed_abv,estimated_alcohol_g,alcohol_energy_kcal,macro_energy_kcal,decision_note,corrected_image_calories_kcal
+p01,IMG_9006.jpeg,2020-02-07,Red wine,True,150.0,0.125,14.793750000000001,103.55625,344.3,Applied 7 kcal/g ethanol using the existing portion as approximate mL; ABV and volume remain uncertain.,447.85625000000005
+p01,IMG_9164.jpeg,2020-02-25,red wine,True,150.0,0.125,14.793750000000001,103.55625,188.5,Applied 7 kcal/g ethanol using the existing portion as approximate mL; ABV and volume remain uncertain.,292.05625
+p03,IMG_2645.jpg,2020-02-12,red wine,True,150.0,0.125,14.793750000000001,103.55625,15.6,Applied 7 kcal/g ethanol using the existing portion as approximate mL; ABV and volume remain uncertain.,119.15625
+p03,IMG_2649.jpg,2020-02-15,Red wine,True,150.0,0.125,14.793750000000001,103.55625,15.6,Applied 7 kcal/g ethanol using the existing portion as approximate mL; ABV and volume remain uncertain.,119.15625
+p03,IMG_2732.jpg,2020-03-22,red wine,True,150.0,0.125,14.793750000000001,103.55625,406.8,Applied 7 kcal/g ethanol using the existing portion as approximate mL; ABV and volume remain uncertain.,510.35625000000005
+p05,IMG_2398.jpg,2020-02-12,beer,True,350.0,0.05,13.807500000000001,96.6525,58.0,Applied 7 kcal/g ethanol using the existing portion as approximate mL; ABV and volume remain uncertain.,154.6525
+p05,281dad76-7501-4f0c-b81b-92fdeb256ab3.jpg,2020-03-20,Red wine or grape juice,False,240.0,,,0.0,142.0,"No ethanol energy added because the beverage identity is ambiguous, the portion is unavailable, or the estimate is not usable.",142.0
